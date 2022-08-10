@@ -6,7 +6,7 @@
 
 ##### 1. 拉取代码到本地（git clone 或 下载 zip 文件）
 
-    git clone git@github.com:lsSuperman/aria2_for_windows.git
+    git clone https://github.com/lsSuperman/aria2_for_windows.git
     
     or
     
