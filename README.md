@@ -13,13 +13,13 @@ git clone https://github.com/lsSuperman/aria2_for_windows.git
 ##### 2. 打开 `aria2-1.36.0-win-64bit-build1` 文件夹，修改 `aria2.conf` 文件以下内容
 
 ```
-dir=C:\Users\Administrator\Desktop\（下载文件保存路径，改为你想要保存的绝对地址）
+dir=C:\Users\Administrator\Desktop\（下载文件保存地址，改为你想要保存的磁盘绝对地址）
 
-log=D:\App\aria2_for_windows\aria2.log（日志文件，路径D:\app\改为项目存放路径）
+log=D:\app\aria2_for_windows\aria2.log（日志文件，路径D:\app\改为本项目存放路径）
 
-input-file=D:\app\aria2_for_windows\aria2.session（session文件，路径D:\app\改为项目存放路径）
+input-file=D:\app\aria2_for_windows\aria2.session（session文件，路径D:\app\改为本项目存放路径）
 
-save-session=D:\app\aria2_for_windows\aria2.session（session文件，路径D:\app\改为项目存放路径）
+save-session=D:\app\aria2_for_windows\aria2.session（session文件，路径D:\app\改为本项目存放路径）
 ```
 
 ##### 3.启动 aria2 服务
