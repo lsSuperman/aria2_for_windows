@@ -76,3 +76,9 @@ save-session=D:\app\aria2_for_windows\aria2.session（session文件，路径D:\a
 > > 
 > > https://github.com/jae-jae/Camtd
 > 
+
+## **5、扩展（多线程下载器）**
+
+> 参考文档
+> > https://www.baiduyun.wiki/zh-cn/
+> 
