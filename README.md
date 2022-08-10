@@ -44,7 +44,7 @@ or
 
 ##### 2. 安装 Tampermonkey
 
-添加脚本：[lian](https://greasyfork.org/zh-CN/scripts/418182-百度网盘简易下载助手-直链下载复活版)
+添加脚本：https://greasyfork.org/zh-CN/scripts/418182-百度网盘简易下载助手-直链下载复活版
 
 ps：可使用其他脚本替换
 
