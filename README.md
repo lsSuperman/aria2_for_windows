@@ -7,10 +7,10 @@
 ##### 1. 拉取代码到本地（git clone 或 下载 zip 文件）
 
     git clone https://github.com/lsSuperman/aria2_for_windows.git
-    
-    or
-    
-    手动 download zip file
+
+or
+
+手动 download zip file
 
 ##### 2. 打开 aria2-1.36.0-win-64bit-build1 文件夹，修改 aria2.conf 文件以下内容
 
@@ -44,26 +44,27 @@
 
 ##### 2. 安装 Tampermonkey
 
-	添加脚本 https://greasyfork.org/zh-CN/scripts/418182-百度网盘简易下载助手-直链下载复活版
-	
-	ps：可使用其他脚本
+添加脚本：[lian](https://greasyfork.org/zh-CN/scripts/418182-百度网盘简易下载助手-直链下载复活版)
+
+ps：可使用其他脚本替换
 
 ## **3、使用**
 
 ##### 1.登录百度网盘网页版，选择需要下载的文件，点击`简易下载助手`->`点击获取直连地址`->`发送至Aria2`。
 
-##### 2.打开AriaNg扩展即可管理下载任务，及相关配置管理。
+##### 2.打开 AriaNg 扩展即可管理下载任务，及相关配置管理。
 
-## **4、🔗相关链接**
+## **4、🔗 相关链接**
 
-> 工具链接  
->> Aria2 GitHub：https://github.com/aria2/aria2  
->> AriaNg GitHub：https://github.com/mayswind/AriaNg  
->> Crx搜搜：https://www.crxsoso.com  
->> Tampermonkey脚本：https://greasyfork.org/zh-CN/scripts  
->  
-> 参考文档  
->> https://juejin.cn/post/6844903823803154446  
->> https://www.cnblogs.com/alphaprime/p/15781824.html  
->> https://github.com/jae-jae/Camtd  
->  
+> 工具链接
+>
+> > Aria2 GitHub：https://github.com/aria2/aria2  
+> > AriaNg GitHub：https://github.com/mayswind/AriaNg  
+> > Crx 搜搜：https://www.crxsoso.com  
+> > Tampermonkey 脚本：https://greasyfork.org/zh-CN/scripts
+>
+> 参考文档
+>
+> > https://juejin.cn/post/6844903823803154446  
+> > https://www.cnblogs.com/alphaprime/p/15781824.html  
+> > https://github.com/jae-jae/Camtd
