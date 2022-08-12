@@ -32,11 +32,9 @@ save-session=D:\app\aria2_for_windows\aria2.session（session文件，路径D:\a
 
 &nbsp;&nbsp;&nbsp;&nbsp;执行 `aria2-1.36.0-win-64bit-build1` 文件夹中 `Stop.bat`。
 
-## **2、如何使用**
+## **2、如何使用（适用于 Mac、Windows）**
 
 > 以下两种方式任选其一即可。
->
-> 使用方式适用于 Mac、Windows 等。
 >
 > chrome 插件安装方法：
 >
