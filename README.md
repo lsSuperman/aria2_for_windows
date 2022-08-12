@@ -44,7 +44,7 @@ save-session=D:\app\aria2_for_windows\aria2.session（session文件，路径D:\a
 > 
 > ps：安装失败时刷新页面重试。
 
-### **1、Chrome 插件**
+### **方式一、Chrome 插件**
 
 ##### 1. 安装 AriaNg
 
@@ -58,7 +58,7 @@ save-session=D:\app\aria2_for_windows\aria2.session（session文件，路径D:\a
 
 &nbsp;&nbsp;&nbsp;&nbsp;2.打开 `AriaNg` 扩展即可管理下载任务及相关配置。
 
-### **2、网盘直链下载助手**
+### **方式二、网盘直链下载助手**
 
 ##### 1. 安装 Tampermonkey
 
