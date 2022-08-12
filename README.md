@@ -35,14 +35,14 @@ save-session=D:\app\aria2_for_windows\aria2.session（session文件，路径D:\a
 ## **2、如何使用（适用于 Mac、Windows）**
 
 > 以下两种方式任选其一即可。
->
+> 
 > chrome 插件安装方法：
->
+> 
 > 1.在 `google` 浏览器中，点击右上角`自定义`按钮，找到`更多工具`->`扩展程序`，打开右上角`开发者模式`开关。
->
+> 
 > 2.将 `crx` 文件夹中的扩展程序文件拖入 `google` 浏览器完成安装。
->
-> > ps：安装失败时刷新页面重试。
+> 
+> ps：安装失败时刷新页面重试。
 
 ### **1、Chrome 插件**
 
@@ -69,7 +69,7 @@ save-session=D:\app\aria2_for_windows\aria2.session（session文件，路径D:\a
 ##### 3、使用
 
 &nbsp;&nbsp;&nbsp;&nbsp;登录百度网盘网页版，选择需要下载的文件，点击`下载助手`，选取`RPC下载`即可使用。
-> ps：首次使用需要`设置RPC参数`，支持批量下载。
+  > ps：首次使用需要`设置RPC参数`，支持批量下载。
 
 ## **3、🔗 相关链接**
 
