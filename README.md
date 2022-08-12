@@ -22,15 +22,15 @@ save-session=D:\app\aria2_for_windows\aria2.session（session文件，路径D:\a
 
 ##### 3.启动 aria2 服务
 
-- 执行 `aria2-1.36.0-win-64bit-build1` 文件夹中 `HideRun.vbs`。
+&nbsp;&nbsp;&nbsp;&nbsp;执行 `aria2-1.36.0-win-64bit-build1` 文件夹中 `HideRun.vbs`。
 
 ##### 4.验证 aria2 是否启动
 
-- 访问链接：http://localhost:6800/jsonrpc?jsoncallback=1 ，如果可以正常访问，说明 `Aria2` 服务启动成功了。
+&nbsp;&nbsp;&nbsp;&nbsp;访问链接：http://localhost:6800/jsonrpc?jsoncallback=1 ，如果可以正常访问，说明 `Aria2` 服务启动成功了。
 
 ##### 5.停止 aria2 服务
 
-- 执行 `aria2-1.36.0-win-64bit-build1` 文件夹中 `Stop.bat`。
+&nbsp;&nbsp;&nbsp;&nbsp;执行 `aria2-1.36.0-win-64bit-build1` 文件夹中 `Stop.bat`。
 
 ## **2、如何使用**
 
@@ -44,7 +44,7 @@ save-session=D:\app\aria2_for_windows\aria2.session（session文件，路径D:\a
 >
 > 2.将 `crx` 文件夹中的扩展程序文件拖入 `google` 浏览器完成安装。
 >
-> > ps：安装失败时刷新页面重试.
+> > ps：安装失败时刷新页面重试。
 
 ### **1、Chrome 插件**
 
@@ -52,13 +52,13 @@ save-session=D:\app\aria2_for_windows\aria2.session（session文件，路径D:\a
 
 ##### 2. 安装 Tampermonkey
 
-- 安装脚本：打开[百度网盘简易下载助手](https://greasyfork.org/zh-CN/scripts/418182-百度网盘简易下载助手-直链下载复活版)，点击安装即可。
+&nbsp;&nbsp;&nbsp;&nbsp;安装脚本：打开[百度网盘简易下载助手](https://greasyfork.org/zh-CN/scripts/418182-百度网盘简易下载助手-直链下载复活版)，点击安装即可。
 
 ##### 3、使用
 
-- 1.登录百度网盘网页版，选择需要下载的文件，点击`简易下载助手`->`点击获取直连地址`->`发送至Aria2`。
+&nbsp;&nbsp;&nbsp;&nbsp;1.登录百度网盘网页版，选择需要下载的文件，点击`简易下载助手`->`点击获取直连地址`->`发送至Aria2`。
 
-- 2.打开 `AriaNg` 扩展即可管理下载任务及相关配置。
+&nbsp;&nbsp;&nbsp;&nbsp;2.打开 `AriaNg` 扩展即可管理下载任务及相关配置。
 
 ### **2、网盘直链下载助手**
 
@@ -66,11 +66,12 @@ save-session=D:\app\aria2_for_windows\aria2.session（session文件，路径D:\a
 
 ##### 2. [网盘直链下载助手](https://www.baiduyun.wiki/install.html#📖-使用教程)使用教程
 
-- 安装脚本：打开[网盘直链下载助手](https://greasyfork.org/zh-CN/scripts/436446-网盘直链下载助手)，点击安装即可。
+&nbsp;&nbsp;&nbsp;&nbsp;安装脚本：打开[网盘直链下载助手](https://greasyfork.org/zh-CN/scripts/436446-网盘直链下载助手)，点击安装即可。
 
 ##### 3、使用
 
-- 登录百度网盘网页版，选择需要下载的文件，点击`下载助手`即可选取多种方式使用。
+&nbsp;&nbsp;&nbsp;&nbsp;登录百度网盘网页版，选择需要下载的文件，点击`下载助手`，选取`RPC下载`即可使用。
+> ps：首次使用需要`设置RPC参数`，支持批量下载。
 
 ## **3、🔗 相关链接**
 
