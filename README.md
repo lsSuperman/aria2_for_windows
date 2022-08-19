@@ -22,7 +22,7 @@ save-session=D:\app\aria2_for_windows\aria2-1.36.0-win-64bit-build1\aria2.sessio
 
 ##### 3.启动 aria2 服务
 
-&nbsp;&nbsp;&nbsp;&nbsp;执行 `aria2-1.36.0-win-64bit-build1` 文件夹中 `HideRun.vbs`。  
+&nbsp;&nbsp;&nbsp;&nbsp;执行 `aria2-1.36.0-win-64bit-build1` 文件夹中 `HideRun.vbs` 或 `Start.bat`。  
   
 &nbsp;&nbsp;&nbsp;&nbsp;或 在终端（`aria2-1.36.0-win-64bit-build1`文件夹右键在终端打开）执行 `\aria2c.exe --conf-path=aria2.conf --async-dns=false`。
 
