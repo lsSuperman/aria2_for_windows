@@ -24,7 +24,7 @@ save-session=D:\app\aria2_for_windows\aria2.session（session文件，路径D:\a
 
 &nbsp;&nbsp;&nbsp;&nbsp;执行 `aria2-1.36.0-win-64bit-build1` 文件夹中 `HideRun.vbs`。  
   
-&nbsp;&nbsp;&nbsp;&nbsp;或 在命令行手动启动`aria2c.exe --conf-path=aria2.conf`
+&nbsp;&nbsp;&nbsp;&nbsp;或 在命令行（win+r，输入cmd）找到`aria2c.exe`所在目录，手动启动`aria2c.exe --conf-path=aria2.conf`
 
 ##### 4.验证 aria2 是否启动
 
