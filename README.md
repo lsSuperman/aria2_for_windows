@@ -22,9 +22,7 @@ save-session=D:\app\aria2_for_windows\aria2.session（session文件，路径D:\a
 
 ##### 3.启动 aria2 服务
 
-&nbsp;&nbsp;&nbsp;&nbsp;执行 `aria2-1.36.0-win-64bit-build1` 文件夹中 `HideRun.vbs`。  
-  
-&nbsp;&nbsp;&nbsp;&nbsp;或 在命令行（win+r，输入cmd）找到`aria2c.exe`所在目录，手动启动`aria2c.exe --conf-path=aria2.conf`
+&nbsp;&nbsp;&nbsp;&nbsp;执行 `aria2-1.36.0-win-64bit-build1` 文件夹中 `HideRun.vbs`。
 
 ##### 4.验证 aria2 是否启动
 
@@ -50,7 +48,7 @@ save-session=D:\app\aria2_for_windows\aria2.session（session文件，路径D:\a
 
 ##### 1. 安装 AriaNg
 
-##### 2. 安装 Tampermonkey
+##### 2. 安装 `Tampermonkey`
 
 &nbsp;&nbsp;&nbsp;&nbsp;安装脚本：打开[百度网盘简易下载助手](https://greasyfork.org/zh-CN/scripts/418182-百度网盘简易下载助手-直链下载复活版)，点击安装即可。
 
@@ -62,16 +60,20 @@ save-session=D:\app\aria2_for_windows\aria2.session（session文件，路径D:\a
 
 ### **方式二、网盘直链下载助手**
 
-##### 1. 安装 Tampermonkey
+##### 1. 安装 `Tampermonkey` 或 `Tampermonkey BETA`
 
-##### 2. [网盘直链下载助手](https://www.baiduyun.wiki/install.html#📖-使用教程)使用教程
+##### 2. 安装 [网盘直链下载助手](https://www.baiduyun.wiki/install.html#📖-使用教程) 
 
-&nbsp;&nbsp;&nbsp;&nbsp;安装脚本：打开[网盘直链下载助手](https://greasyfork.org/zh-CN/scripts/436446-网盘直链下载助手)，点击安装即可。
+&nbsp;&nbsp;&nbsp;&nbsp;安装脚本：打开[网盘直链下载助手](https://greasyfork.org/zh-CN/scripts/436446-网盘直链下载助手) ，点击安装即可。
 
-##### 3、使用
+##### 3. 安装 [网盘万能助手](https://www.baiduyun.wiki/zh-cn/assistant.html#google_vignette)
+
+&nbsp;&nbsp;&nbsp;&nbsp;将`assistant.zip`拖入扩展程序，`Tampermonkey BETA`可跳过此步骤。
+
+##### 4、使用
 
 &nbsp;&nbsp;&nbsp;&nbsp;登录百度网盘网页版，选择需要下载的文件，点击`下载助手`，选取`RPC下载`即可使用。
-  > ps：首次使用需要`设置RPC参数`，支持批量下载。
+  > ps：首次使用需要`设置RPC参数`(端口：6800、下载地址)，支持批量下载。
 
 ## **3、🔗 相关链接**
 
