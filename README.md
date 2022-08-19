@@ -13,16 +13,18 @@ git clone https://github.com/lsSuperman/aria2_for_windows.git
 ```
 dir=C:\Users\Administrator\Desktop\（下载文件保存地址，改为你想要保存的磁盘绝对地址）
 
-log=D:\app\aria2_for_windows\aria2.log（日志文件，路径D:\app\改为本项目存放路径）
+log=D:\app\aria2_for_windows\aria2-1.36.0-win-64bit-build1\aria2.log（日志文件，路径D:\app\改为本项目存放路径）
 
-input-file=D:\app\aria2_for_windows\aria2.session（session文件，路径D:\app\改为本项目存放路径）
+input-file=D:\app\aria2_for_windows\aria2-1.36.0-win-64bit-build1\aria2.session（session文件，路径D:\app\改为本项目存放路径）
 
-save-session=D:\app\aria2_for_windows\aria2.session（session文件，路径D:\app\改为本项目存放路径）
+save-session=D:\app\aria2_for_windows\aria2-1.36.0-win-64bit-build1\aria2.session（session文件，路径D:\app\改为本项目存放路径）
 ```
 
 ##### 3.启动 aria2 服务
 
-&nbsp;&nbsp;&nbsp;&nbsp;执行 `aria2-1.36.0-win-64bit-build1` 文件夹中 `HideRun.vbs`。
+&nbsp;&nbsp;&nbsp;&nbsp;执行 `aria2-1.36.0-win-64bit-build1` 文件夹中 `HideRun.vbs`。  
+  
+&nbsp;&nbsp;&nbsp;&nbsp;或 在终端（`aria2-1.36.0-win-64bit-build1`文件夹右键在终端打开）执行 `\aria2c.exe --conf-path=aria2.conf --async-dns=false`。
 
 ##### 4.验证 aria2 是否启动
 
